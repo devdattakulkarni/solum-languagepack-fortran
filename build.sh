@@ -11,3 +11,4 @@ pip help
 # Install dependencies from app requirements file
 cd /app
 pip install -r requirements.txt; make clean; make
+
